@@ -5,7 +5,8 @@ A task manager with the capability to connect multiple users to a single compute
 
 # Connetion
 ## Reuest
-![image](https://github.com/Abstract-Chief/Tasks/assets/92479577/68138740-79e3-47e1-b311-492955b3dc72)
+![image](https://github.com/Abstract-Chief/Tasks/assets/92479577/cfa096f2-cc2f-46f9-b884-a0bd3ab6f663)
+
 
 ## Connect
 ![image](https://github.com/Abstract-Chief/Tasks/assets/92479577/6810a8b1-b922-4a58-979a-8b156542c451)
