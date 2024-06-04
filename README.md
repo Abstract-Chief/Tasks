@@ -17,4 +17,5 @@ The network task manager in this project is built to facilitate remote managemen
 ## Connect
 ![image](https://github.com/Abstract-Chief/Tasks/assets/92479577/6810a8b1-b922-4a58-979a-8b156542c451)
 
-
+## Work *alpha*
+![image](https://github.com/Abstract-Chief/Tasks/assets/92479577/0c4ebe23-d482-4be3-8a45-a76b9b16f594)
